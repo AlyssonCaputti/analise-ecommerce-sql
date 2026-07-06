@@ -1,0 +1,51 @@
+cliente_id,nome,email,uf,data_cadastro
+1,Diego Alves,,RS,2025-09-08
+2,Hugo Pinto,hugo.pinto14@email.com,RJ,2025-03-31
+3,Vera Pires,vera.pires4@email.com,RJ,2025-08-12
+4,Hugo Pinto,hugo.pinto4@email.com,BA,2025-07-23
+5,Tiago Mota,tiago.mota58@email.com,sao paulo,2025-10-12
+6,Ana Souza,ana.souza21@email.com,SC,2026-03-09
+7,Ana Souza,ana.souza28@email.com,MG,2025-12-11
+8,Diego Alves,diego.alves13@email.com,SP,2025-12-19
+9,Yara Gomes,yara.gomes6@email.com,SC,2026-04-16
+10,Tiago Mota,tiago.mota49@email.com,RJ,2025-10-28
+11,Yara Gomes,yara.gomes47@email.com,sao paulo,2025-07-16
+12,Carla Dias,,SP,2025-10-24
+13,Carla Dias,carla.dias13@email.com,S.P.,2025-10-12
+14,Paula Ramos,paula.ramos47@email.com,MG,2026-01-15
+15,Marcos Reis,marcos.reis35@email.com,SC,2025-03-15
+16,Yara Gomes,yara.gomes69@email.com,SC,2025-09-08
+17,Fabio Rocha,fabio.rocha35@email.com,RJ,2025-08-13
+18,Ana Souza,ana.souza8@email.com,SP,2025-02-02
+19,Ana Souza,ana.souza9@email.com,SP,2025-11-19
+20,Gabi Melo,gabi.melo51@email.com,RJ,2026-04-15
+21,Erica Nunes,erica.nunes32@email.com,SC,2025-09-27
+22,Vera Pires,vera.pires75@email.com,S.P.,2026-01-06
+23,Hugo Pinto,hugo.pinto18@email.com,BA,2026-05-21
+24,Carla Dias,carla.dias15@email.com,MG,2025-06-13
+25,Otavio Cruz,otavio.cruz50@email.com,S.P.,2026-04-25
+26,Sofia Luz,sofia.luz71@email.com,SP,2025-04-28
+27,Tiago Mota,tiago.mota99@email.com,RJ,2025-12-15
+28,Diego Alves,diego.alves21@email.com,PR,2025-01-04
+29,Igor Sena,igor.sena98@email.com,MG,2026-06-04
+30,Diego Alves,diego.alves39@email.com,RJ,2026-06-04
+31,Yara Gomes,yara.gomes48@email.com,MG,2025-06-15
+32,Tiago Mota,tiago.mota68@email.com,SP,2025-11-28
+33,Rafa Teles,,SP,2025-11-11
+34,Hugo Pinto,,sao paulo,2025-03-22
+35,Carla Dias,carla.dias9@email.com,MG,2025-05-09
+36,Erica Nunes,erica.nunes71@email.com,MG,2025-09-29
+37,Sofia Luz,sofia.luz55@email.com,SP,2025-07-25
+38,Julia Castro,julia.castro86@email.com,RJ,2026-01-18
+39,Paula Ramos,paula.ramos58@email.com,RJ,2025-09-11
+40,Hugo Pinto,,SP,2025-08-24
+41,Vera Pires,vera.pires10@email.com,SC,2025-03-02
+42,Hugo Pinto,,SP,2025-12-05
+43,Carla Dias,carla.dias36@email.com,RJ,2026-05-13
+44,Gabi Melo,gabi.melo93@email.com,sao paulo,2026-04-30
+45,Hugo Pinto,hugo.pinto53@email.com,SP,2025-04-07
+46,Diego Alves,diego.alves46@email.com,S.P.,2026-02-25
+47,Paula Ramos,paula.ramos7@email.com,RJ,2025-04-11
+48,Bruno Lima,bruno.lima44@email.com,MG,2025-04-22
+49,Hugo Pinto,hugo.pinto69@email.com,PR,2025-05-24
+50,Otavio Cruz,otavio.cruz60@email.com,SP,2025-03-19

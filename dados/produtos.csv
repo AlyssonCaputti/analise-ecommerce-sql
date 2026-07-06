@@ -1,0 +1,17 @@
+produto_id,nome,categoria,preco
+1,Fone de ouvido bluetooth,Eletronicos,149.90
+2,Carregador USB-C,Eletronicos,39.90
+3,Mouse sem fio,Eletronicos,79.90
+4,Teclado mecanico,Eletronicos,259.00
+5,Webcam HD,Eletronicos,189.90
+6,Jogo de panelas,Casa,219.00
+7,Luminaria de mesa,Casa,89.90
+8,Cortina blackout,Casa,129.90
+9,Tapete sala,Casa,179.00
+10,Python para iniciantes,Livros,69.90
+11,SQL descomplicado,Livros,54.90
+12,Analise de dados,Livros,89.90
+13,Camiseta basica,Moda,49.90
+14,Tenis casual,Moda,199.90
+15,Mochila,Moda,149.90
+16,Bone,Moda,39.90

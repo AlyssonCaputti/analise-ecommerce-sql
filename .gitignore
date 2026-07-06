@@ -1,0 +1,3 @@
+# banco gerado pelo carrega.py - da pra recriar a qualquer momento
+*.db
+__pycache__/
